@@ -17,7 +17,7 @@ countdown:
   minute: 0
 
 # Site owner
-owner:Netlink
+owner:
   name:Netlink
   email:contact@netlink.cm
   twitter:
